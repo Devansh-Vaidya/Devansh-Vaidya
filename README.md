@@ -11,6 +11,10 @@ Welcome to my GitHub profile! I'm a passionate Computer Science graduate with a 
 
 ## 🚀 Projects
 
+### [FadeBot](https://github.com/Devansh-Vaidya/FadeBot)
+
+A chatbot with an intuitive UI for dynamic LLM model selection and seamless user experience using React.js and Flask.
+
 ### [Gesture Paint](https://github.com/Devansh-Vaidya/GesturePaint)
 
 A Python application that lets you draw on a digital canvas using hand gestures. It utilizes MediaPipe for hand recognition and OpenCV for real-time video processing.
@@ -22,6 +26,10 @@ A full-stack application for recognizing digits and alphabets with 97% accuracy,
 ### [Feature Matching](https://github.com/Devansh-Vaidya/FeatureMatching)
 
 Implemented SIFT for feature detection and RANSAC for outlier removal, achieving robust image template localization.
+
+### [Covid-19 Data Management System (Academic)](https://github.com/bhavya6701/Covid-19-Data-Management-System)
+
+A web application developed for managing COVID-19-related data using PHP and MySQL, supporting secure and efficient data operations.
 
 ## 🎯 What I'm Currently Working On
 
