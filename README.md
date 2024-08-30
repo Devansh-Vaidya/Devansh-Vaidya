@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science graduate with a 
 ## 🛠️ Tech Stack
 
 * **Languages:** Java, Python, JavaScript, C#, MySQL, HTML, CSS
-* **Frameworks:** SpringBoot, JPA, Hibernate, React, PyTorch
-* **Libraries:** JUnit, Pandas, Matplotlib, Scikit-learn, OpenCV
+* **Frameworks:** SpringBoot, JPA, Flask, React, PyTorch
+* **Libraries:** JUnit, Pandas, Matplotlib, Scikit-learn, OpenCV, Tailwind
 * **Tools:** Docker, IntelliJ, Visual Studio Code, Git, GitHub, Jira
 
 ## 🚀 Projects
