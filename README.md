@@ -41,10 +41,9 @@ I'm currently learning new technologies in Fullstack Development as well as the 
 
 ## 📫 How to Reach Me
 
-* [Portfolio](https://devansh-vaidya.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/devansh-vaidya/)
 * [Email](mailto:[vaidyadevansh11@gmail.com])
 
 ## ⚡ Fun Fact
 
-I'm a huge fan of exploring AI and its application in various fields, especially to improve quality of life. Also, I enjoy playing badminton!
+I'm a huge fan of exploring AI and its application in various fields, especially to improve the quality of life. Also, I enjoy playing badminton!
